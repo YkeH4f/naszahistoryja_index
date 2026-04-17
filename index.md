@@ -1,4 +1,8 @@
-<div style="font-size: 0.85em; line-height: 1.25; margin: 0; padding: 0">
+---
+layout: home
+---
+
+<div markdown="1" style="font-size: 0.85em; line-height: 1.25; margin: 0; padding: 0">
 
 ## [2018] Наша Гісторыя #1
 [Вялікае Княства Літоўскае] ХТО З ВЯЛІКІХ КНЯЗЁЎ БЫЎ САМЫ-САМЫ? (Андрэй Скурко, с.4)<br>
